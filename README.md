@@ -1,4 +1,4 @@
 # OSTAD-Assignment-module-6
 
-![My Screenshot](netdata dashboard.png)
-![My Screenshot](second node added in netdata server.png)
+![My Screenshot](images/netdata_dashboard.png)
+![My Screenshot](images/second_node_added_in_netdata_server.png)
